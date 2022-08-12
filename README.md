@@ -1,4 +1,4 @@
-# Javascript Objects | Koseksi 
+# Javascript Objects |  Mr Yenagandula
 
 ### Objects In Detail
 - Normally Every programming language is contains objects and it support object oriennted programming concepts 
